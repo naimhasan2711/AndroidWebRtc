@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563774086156",
+    "project_id": "androidwebrtcvideocallingapp",
+    "storage_bucket": "androidwebrtcvideocallingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563774086156:android:3899dccc079eea03f56229",
+        "android_client_info": {
+          "package_name": "com.nakibul.android.androidwebrtc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnahwChGlUv_sH1VT-7xL9-ej-hKLG60k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
